@@ -23,3 +23,7 @@ so i recommended 2 use rdesktop
 while using just need input something in shell("
     rdesktop -g 1920x1080 -P -z -x l -r sound:on -u windows xx.xx.xx.xx:3389
 ")
+
+#6 music software
+
+ieasemusic https://github.com/trazyn/ieaseMusic
